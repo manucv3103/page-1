@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(https://wallpaperaccess.com/full/1308942.png)no-repeat fixed;
+     background-size: cover;
+  }
+  #info{
+    color:chocolate;
+    font-family: 'Berlin Sans FB Demi';
+    font-size: 36pt;
+    font-style: italic;
+    text-align: center;    
+}
+.pie{
+  font-size: 20pt;
+  background-color:black;
+  color: aliceblue;
+}
+#logo{
+    text-align: center;
+}
+#logopie{
+    float: left;    
+    background-color:black;
+    } .header .navbar {
+       background-color: transparent !important;
+     }#navv{
+        color:aliceblue;
+      }
+      #iff{
+        color: aliceblue;
+      }
+      #ifa{
+        font-size: 16pt;
+      }
+      .pie2{
+        font-size: 20pt;
+        background-color:black;
+        color: aliceblue;}
+        #linea{
+          background-color: aliceblue;
+        }
+        #aa{
+          color: aliceblue;
+        }
+        #validationCustom05{
+          width: 370px;
+        }
+        

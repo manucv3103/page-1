@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/curiosidades-cerveza-que-no-conocias.jpg?tf=3840x)no-repeat fixed;
+     background-size: cover;
+  }
+#info{
+    color:chocolate;
+    font-family: 'Berlin Sans FB Demi';
+    font-size: 36pt;
+    font-style: italic;
+    text-align: center;    
+}
+.pie{
+   font-size: 20pt;
+   background-color:black;
+   color: aliceblue;
+}
+#logo{
+    text-align: center;
+}
+#inf{
+   color: aliceblue;
+   font-size:14pt;
+}
+#if{
+   text-align: center;
+}
+#chelax1{
+   text-align:center;
+   color:darkorange;
+   font-size:22pt;
+   font-family:"Castellar";
+}
+#subb{
+   color:orange;
+}
+#jfs{
+   color: aliceblue;
+   font-size: 15pt;
+}
+.flex-container {
+  display: flex;
+}
+#linea{
+    color:orange;
+ }
+ .header .navbar {
+   background-color: transparent !important;
+ }
+ #navv{
+   color:aliceblue;
+ }
+#nav1{
+   
+   background-color: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75))coral;
+} 
+#logopie{
+   float: left;    
+   background-color:black;
+   } .header .navbar {
+      background-color: transparent !important;
+    }

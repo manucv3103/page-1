@@ -1,0 +1,98 @@
+body{
+   background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(http://cdn.shopify.com/s/files/1/0577/5550/0600/articles/origen-cerveza-historia-cerveza.jpg?v=1654169989) no-repeat fixed;
+    background-size: cover;
+ }
+ #info{
+     color:chocolate;
+     font-family: 'Berlin Sans FB Demi';
+     font-size: 36pt;
+     font-style: italic;
+     text-align: center;    
+ }
+ .pie{
+    font-size: 20pt;
+    background-color:black;
+    color: aliceblue;
+}
+ #logo{
+     text-align: center;
+ }
+ #inf{
+    color: aliceblue;
+    font-size:14pt;
+ }
+#if{
+    text-align: center;
+ }
+ #chelax1{
+    text-align:center;
+    color:darkorange;
+    font-size:22pt;
+    font-family:"Castellar";
+ }
+ #subb{
+    color:orange;
+ }
+ #jfs{
+    color: aliceblue;
+    font-size: 15pt;
+ }
+ .flex-container {
+   display: flex;
+ }
+ .div1 {
+   background: linear-gradient(rgba(5,7,12,0.25),rgba(5,7,12,0.25)), url(https://us.123rf.com/450wm/vlue/vlue1101/vlue110100106/8638295-six-pack-de-botellas-de-cerveza-en-una-caja-de-cart%C3%B3n-con-aisladas-sobre-fondo-blanca.jpg);
+   background-repeat: no-repeat;
+   background-size: fixed;
+   font-size: 15pt;  
+   text-align: center;
+   color:black;
+   width: 340pt;
+   height: 340pt;
+}
+ .div2 {
+   background: linear-gradient(rgba(5,7,12,0.25),rgba(5,7,12,0.25)), url(https://cdn.shopify.com/s/files/1/0536/7447/5689/products/95be468f-76b7-4fa9-b18a-620af7dc971a_720x_5b818fe3-3fef-4978-b10b-712e923ae2d4.jpg?v=1613062524);
+   background-repeat: no-repeat;
+   background-size: fixed;
+   font-size: 15pt;
+   text-align: center;
+   color:black;
+   width: 340pt;
+   height: 340pt;
+ }
+ .div3 {
+   background: linear-gradient(rgba(5,7,12,0.25),rgba(5,7,12,0.25)), url(https://maltosaa.com.mx/wp-content/uploads/AdobeStock_204194746.jpg);
+   background-repeat: no-repeat;
+   background-size: fixed;
+   font-size: 15pt;
+   text-align: center;
+   color:black;
+   width: 340pt;
+   height: 340pt;
+ }
+ .div4 {
+   background: linear-gradient(rgba(5,7,12,0.25),rgba(5,7,12,0.25)), url(https://www.eluniversal.com.co/binrepository/1050x700/0c0/0d0/none/13704/CPQD/12cerveza-artesanal_5469054_20211111173332.jpg);
+   background-repeat: no-repeat;
+   background-size: fixed;
+   font-size: 15pt;
+   text-align: center;
+   color:black;
+   width: 340pt;
+   height: 340pt;
+ }
+ #linea{
+   color:orange;
+}
+#logopie{
+float: left;    
+background-color:black;
+} .header .navbar {
+   background-color: transparent !important;
+ }
+ #navv{
+   color:aliceblue;
+ }
+#nav1{
+   
+   background-color: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75))coral;
+} 
